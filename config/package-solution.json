@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "share-point-2-client-side-solution",
+    "id": "5679abf2-781c-42c7-8148-2415ca234c61",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.17.4"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "share-point-2 description"
+      },
+      "longDescription": {
+        "default": "share-point-2 description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "share-point-2 Feature",
+        "description": "The feature that activates elements of the share-point-2 solution.",
+        "id": "270b3934-fa0f-48e5-91a8-6fc9e7dc6068",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/share-point-2.sppkg"
+  }
+}
